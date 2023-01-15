@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "ncu": "^0.2.1",
+    "nodemon": "2.0.20",
+    "redis": "4.5.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon"
+  }
+}
